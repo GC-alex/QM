@@ -52,9 +52,9 @@ Then simply select the File you want to work on and dive right into it!
 
 #### 01 Introduction to R
 
-*How to use Jupyter Notebook in the Browser
-*How to set up R on your local PC
-*Basics of programming in R
+* How to use Jupyter Notebook in the Browser
+* How to set up R on your local PC
+* Basics of programming in R
 
 
 -----------
