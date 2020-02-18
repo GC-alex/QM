@@ -1,4 +1,3 @@
-# Digitale-Lehre
 Content for the bologna project about digital learning tools: Quantitive Methods: Usefull Statistics
 title: "Quantitive Methods for Geographers"
 author: "MSc Global Change Geography"
@@ -6,7 +5,7 @@ date: "Winter term 2019/2020"
 
 # Welcome to Quantitative Methods!
 
-![](/docs/fig/header_sized.jpg)
+![](/figs/header_sized.jpg)
 
 ##  About Quantitative Methods
 
@@ -47,8 +46,15 @@ For vizualizing your data: [R Graphics Cookbook](https://r-graphics.org/).
 ------
 ## Get started!
 
-Simply follow [![Binder]) - an interactive session should open (after about 15 seconds).
+Simply follow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GC-alex/QM/ubertragung) - an interactive session should open (after about 15 seconds).
 Then simply select the File you want to work on and dive right into it!
+
+#### 01 Introduction to R
+
+* How to use Jupyter Notebook in the Browser
+* How to set up R on your local PC
+* Basics of programming in R
+
 
 -----------
 
