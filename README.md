@@ -6,7 +6,7 @@ date: "Winter term 2019/2020"
 
 # Welcome to Quantitative Methods!
 
-![](/docs/fig/header_sized.jpg)
+![](/figs/header_sized.jpg)
 
 ##  About Quantitative Methods
 
