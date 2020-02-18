@@ -1,4 +1,3 @@
-#
 Content for the bologna project about digital learning tools: Quantitive Methods: Usefull Statistics
 title: "Quantitive Methods for Geographers"
 author: "MSc Global Change Geography"
