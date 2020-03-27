@@ -1,4 +1,7 @@
 install.packages('tidyverse')
 install.packages('IRkernel') 
 install.packages('ggplot2') 
+install.packages('dplyr')
+install.packages('gganimate')
+install.packages('gapminder')
 IRkernel::installspec()
