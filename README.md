@@ -44,9 +44,10 @@ In case you want to look up R in context of modeling &statistics, the [the R Boo
 For vizualizing your data: [R Graphics Cookbook](https://r-graphics.org/).
 
 ------
+
 ## Get started!
 
-Simply follow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GC-alex/QM/ubertragung) - an interactive session should open (after about 15 seconds).
+Simply follow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GC-alex/QM/master) - an interactive session should open (after about 15 seconds).
 Then simply select the File you want to work on and dive right into it!
 
 #### 01 Introduction to R
