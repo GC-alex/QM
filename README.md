@@ -80,7 +80,7 @@ aditionally, we provide some usefull extra knowledge or practical Information, t
 #### 00 Set up your Local R
 * Start with RStudio
 #### 00 Useful Shortcuts for JupyterNotebook
-
+------------
 ## Link does not work
 If the Link does not work, please consider the following steps.
 * Change the browser
