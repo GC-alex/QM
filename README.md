@@ -1,16 +1,19 @@
-Content for the bologna project about digital learning tools: Quantitive Methods: Usefull Statistics
-title: "Quantitive Methods for Geographers"
-author: "MSc Global Change Geography"
-date: "Winter term 2019/2020"
+*Content for the bologna project about digital learning tools: Quantitive Methods: Usefull Statistics*
+
+*title: "Quantitive Methods for Geographers"*
+
+*author: "MSc Global Change Geography"*
+
+*date: "Winter term 2019/2020"*
 
 # Welcome to Quantitative Methods!
 
-![](/figs/header_sized.jpg)
+![](/figs/header_sized_small.jpg)
 
 ##  About Quantitative Methods
 
 Quantitative Methods is one of the fundamental courses for students of the Master [Global Change Geography](https://www.geographie.hu-berlin.de/en/studies/study-programs/master-degree-programs/master-of-science) of Humboldt University Berlin. It's goal is the ability to analyse different advanced statistical and mathematical approaches to the quantitative analysis of geo- and environmental data and the modelling of human-environment systems.
-
+This online-tool will guide you through the following topics, and teach you statistics basics in R.
 
 ------
 
@@ -18,7 +21,7 @@ Quantitative Methods is one of the fundamental courses for students of the Maste
 
 The course will cover the following topics:
 
-* Introduction to environmental modelling
+* Introduction to environmental modelling in R
 * Mathematical preliminaries
 * Introduction to spatial statistics
 * Parameter estimation & linear regression
@@ -49,13 +52,35 @@ For vizualizing your data: [R Graphics Cookbook](https://r-graphics.org/).
 
 Simply follow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GC-alex/QM/master) - an interactive session should open (after about 15 seconds).
 Then simply select the File you want to work on and dive right into it!
+Each session is structured in a guiding session, which introduces new concepts and a "challenge"-mode, in which you can practice your learned knowledge. Please always do both, before proceeding to the next session.
+aditionally, we provide some usefull extra knowledge or practical Information, these are always marked with **00**.
 
 #### 01 Introduction to R
 
 * How to use Jupyter Notebook in the Browser
-* How to set up R on your local PC
 * Basics of programming in R
 
+#### 02 Basics: Vectors.
+
+* Basics of programming in R
+* Calculations and variables
+* vectors and datatypes
+
+#### 03 Basics: Data Frames.
+
+*Matrices
+*Data frame
+*Data Manipulation
+
+#### 04 Data Wrangling
+
+*Load packages
+*Visualization
+*Tidy data
+*Data wrangling
 
 -----------
+#### 00 Set up your Local R
+* Start with RStudio
+#### 00 Useful Shortcuts for JupyterNotebook
 
