@@ -1,9 +1,6 @@
 *Content for the bologna project about digital learning tools: Quantitive Methods: Usefull Statistics*
-
 *title: "Quantitive Methods for Geographers"*
-
 *author: "MSc Global Change Geography"*
-
 *date: "Winter term 2019/2020"*
 
 # Welcome to Quantitative Methods!
@@ -68,16 +65,16 @@ aditionally, we provide some usefull extra knowledge or practical Information, t
 
 #### 03 Basics: Data Frames.
 
-*Matrices
-*Data frame
-*Data Manipulation
+* Matrices
+* Data frame
+* Data Manipulation
 
 #### 04 Data Wrangling
 
-*Load packages
-*Visualization
-*Tidy data
-*Data wrangling
+* Load packages
+* Visualization
+* Tidy data
+* Data wrangling
 
 -----------
 #### 00 Set up your Local R
