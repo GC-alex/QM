@@ -55,7 +55,7 @@ aditionally, we provide some usefull extra knowledge or practical Information, t
 #### 01 Introduction to R
 
 * How to use Jupyter Notebook in the Browser
-* Basics of programming in R
+* Why do we use R?
 
 #### 02 Basics: Vectors.
 
@@ -81,3 +81,7 @@ aditionally, we provide some usefull extra knowledge or practical Information, t
 * Start with RStudio
 #### 00 Useful Shortcuts for JupyterNotebook
 
+## Link does not work
+If the Link does not work, please consider the following steps.
+* Change the browser
+* disable Ad-Blocker in your browser
