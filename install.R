@@ -1,7 +1,5 @@
 install.packages('IRkernel') 
 IRkernel::installspec()
 install.packages('tidyverse')
-install.packages('ggplot2') 
-install.packages('dplyr')
 install.packages('geosphere')
 install.packages('maps')
