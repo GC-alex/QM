@@ -48,9 +48,9 @@ For vizualizing your data: [R Graphics Cookbook](https://r-graphics.org/).
 ## Get started!
 
 Simply follow [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GC-alex/QM/master) - an interactive session should open (after about 15 seconds).
-Then simply select the File you want to work on and dive right into it!
-Each session is structured in a guiding session, which introduces new concepts and a "challenge"-mode, in which you can practice your learned knowledge. Please always do both, before proceeding to the next session.
-aditionally, we provide some usefull extra knowledge or practical Information, these are always marked with **00**.
+Then simply select the File you want to work on and dive right into it! (Start is **01**)
+Each session is structured in a guiding session, which introduces new concepts and a Practice-mode, in which you can practice your learned knowledge. Please always do both, before proceeding to the next session.
+Additionally, we provide some usefull extra knowledge or practical Information, these are always marked with **00** and are no sessions.
 
 #### 01 Introduction to R
 
@@ -79,9 +79,12 @@ aditionally, we provide some usefull extra knowledge or practical Information, t
 -----------
 #### 00 Set up your Local R
 * Start with RStudio
+* Install Packages
+
 #### 00 Useful Shortcuts for JupyterNotebook
 ------------
-## Link does not work
+
+## MyBinder does not work?
 If the Link does not work, please consider the following steps.
 * Change the browser
 * disable Ad-Blocker in your browser
